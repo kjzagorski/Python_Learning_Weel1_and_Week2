@@ -27,3 +27,4 @@ favorite_animal= input ("What's your favorite animal?")
 print("Your favorite animal is" , favorite_animal , "that's cool!" )
 #the plus sign is used to concentrate strings
 
+#let's do some more practice
